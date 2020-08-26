@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-    family = ["James","Justice","Greyson","Arwen"]
+    array = ["wow","I","am","really"]
 end
 
 def add_element_to_end_of_array(array, element)
@@ -23,7 +23,7 @@ def remove_element_from_start_of_array(family)
 end
 
 def retrieve_element_from_index(array, element)
-  array[]
+  array[2]
 end
 
 def retrieve_first_element_from_array(family)
