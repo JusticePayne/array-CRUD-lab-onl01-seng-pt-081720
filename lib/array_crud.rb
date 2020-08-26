@@ -1,13 +1,13 @@
 def create_an_empty_array
-  []
+  [ ]
 end
 
-def create_an_array
+def create_an_array do
     family = ["James","Justice","Greyson","Arwen"]
 end
 
 def add_element_to_end_of_array(family, jax)
-  family.push(Jax)
+  family.push(jax)
 end
 
 def add_element_to_start_of_array(family, allport)
