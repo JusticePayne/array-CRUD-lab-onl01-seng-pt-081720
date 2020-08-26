@@ -27,7 +27,7 @@ def retrieve_element_from_index(array, element)
 end
 
 def retrieve_first_element_from_array(array)
-  family[0]
+  array[0]
 end
 
 def retrieve_last_element_from_array(array)
